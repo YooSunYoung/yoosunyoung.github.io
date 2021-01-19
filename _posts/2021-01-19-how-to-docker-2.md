@@ -1,6 +1,7 @@
 ---
-
-
+title: How to use Docker in Pycharm - 2 - Python Interpreter
+author: Sunyoung Yoo
+date: 2021-01-19
 ---
 
 <h1 id="how-to-use-docker-in-pycharm---2---python-interpreter">How to use Docker in Pycharm - 2 - Python Interpreter</h1>
