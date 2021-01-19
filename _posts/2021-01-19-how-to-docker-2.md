@@ -3,8 +3,6 @@ title: How to use Docker in Pycharm - 2 - Python Interpreter
 author: Sunyoung Yoo
 date: 2021-01-19
 ---
-
-<h1 id="how-to-use-docker-in-pycharm---2---python-interpreter">How to use Docker in Pycharm - 2 - Python Interpreter</h1>
 <p>After making a docker server and docker container with the image you want to use, there is one more thing you should set up in order to use Pycharm debugger, interpreter and auto-completion.</p>
 <blockquote>
 <p>OS: Linux, Debian, Ubuntu 16.04</p>
