@@ -1,9 +1,9 @@
 ---
-title: How to use Docker in Phycharm - Container Configuration and Save it as a new Image
+title: "How to use Docker in Phycharm - Container Configuration and Save it as a new Image"
 author: Sunyoung Yoo
 date: 2021-01-19
-tags: docker,phcharm,jetbrain,virtual environment,python
-categories: virtual environment,IDE
+tags: 'docker','phcharm','jetbrain','virtual environment','python'
+categories: 'virtual environment','IDE'
 ---
 
 <h3 id="how-to-use-docker-in-pycharm">How to use Docker in Pycharm</h3>
